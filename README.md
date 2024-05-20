@@ -1,10 +1,6 @@
-### Hi there 👋
-
+Hello. I study computer engineering and science in METU (Middle East Technical University), Turkey. I am currently taking a variety of courses such as operational research, embedded systems development, signals and systems (like Fourier transforms etc....). I am currently involved in a research project in computer networks.
+My main interest is R&D of autonomous systems control.
 <!--
-**ahmet-umut/ahmet-umut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
