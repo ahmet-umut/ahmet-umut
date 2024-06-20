@@ -1,4 +1,4 @@
-Hello. I study computer engineering (and science) in METU (Middle East Technical University), Turkey. I recently took a variety of courses such as operational research, embedded systems development, signals and systems (like Fourier transforms etc....) and currently involved in a research project in computer networks.
+Hello. I study computer engineering (and science) in METU (Middle East Technical University), Turkey. I am currently involved in a research project in computer networks about making any transport protocol reliable using XDP and eBPF.
 
 My main interest is R&D of autonomous systems control.
 <!--
