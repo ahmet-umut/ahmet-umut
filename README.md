@@ -1,6 +1,6 @@
 Hello. I study computer engineering (and science) in METU (Middle East Technical University), Turkey. I am currently involved in a research project in computer networks about making any transport protocol reliable using XDP and eBPF.
 
-My main interest is R&D of autonomous systems control.
+My main interests include R&D of autonomous systems control, game and game engine design.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
