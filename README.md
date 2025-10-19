@@ -1,4 +1,4 @@
-Hello. I study computer engineering (and science) in METU (Middle East Technical University), Turkey. I am currently involved in a research project in computer networks about making any transport protocol reliable using XDP and eBPF.
+Hello. I am computer engineering (and science) graduate ([Middle East Technical University](ceng.metu.edu.tr), Turkey). I am currently a **combat systems design intern** in [Taleworlds Entertainment](taleworlds.com).
 
 My main interests include R&D of autonomous systems control, game and game engine design.
 <!--
